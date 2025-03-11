@@ -5,8 +5,7 @@ Giới thiệu chung về Front-end bằng Node.js
 Front-end là phần giao diện người dùng của một ứng dụng web hoặc phần mềm, nơi người dùng có thể tương tác trực tiếp. Front-end bao gồm thiết kế giao diện, bố cục, màu sắc, hình ảnh và các yếu tố động như hiệu ứng chuyển động hoặc phản hồi từ người dùng.
 
 2. Tại sao sử dụng Node.js cho Front-end?
-
-- Mặc dù Node.js chủ yếu được sử dụng cho Back-end, nhưng nó cũng đóng vai trò quan trọng trong việc hỗ trợ Front-end, đặc biệt trong các công cụ và framework sau:
+Mặc dù Node.js chủ yếu được sử dụng cho Back-end, nhưng nó cũng đóng vai trò quan trọng trong việc hỗ trợ Front-end, đặc biệt trong các công cụ và framework sau:
 
 - Quản lý gói với npm/yarn: Hỗ trợ cài đặt và quản lý thư viện Front-end như React, Vue, Angular.
 
@@ -20,29 +19,29 @@ Front-end là phần giao diện người dùng của một ứng dụng web ho�
 
 a. React.js
 
-Một thư viện JavaScript mạnh mẽ để xây dựng giao diện người dùng tương tác.
+- Một thư viện JavaScript mạnh mẽ để xây dựng giao diện người dùng tương tác.
 
-Dùng với Next.js để hỗ trợ Server-Side Rendering (SSR).
+- Dùng với Next.js để hỗ trợ Server-Side Rendering (SSR).
 
 b. Vue.js
 
-Một framework nhẹ, linh hoạt, dễ học, phù hợp với các dự án từ nhỏ đến lớn.
+- Một framework nhẹ, linh hoạt, dễ học, phù hợp với các dự án từ nhỏ đến lớn.
 
 c. Angular
 
-Framework mạnh mẽ của Google, phù hợp với các ứng dụng doanh nghiệp lớn.
+- Framework mạnh mẽ của Google, phù hợp với các ứng dụng doanh nghiệp lớn.
 
 d. Tailwind CSS, Bootstrap
 
-Hỗ trợ thiết kế UI nhanh chóng và hiệu quả.
+- Hỗ trợ thiết kế UI nhanh chóng và hiệu quả.
 
 4. Lợi ích khi dùng Node.js trong Front-end Development
 
-Hiệu suất cao: Node.js giúp xử lý nhiều tác vụ Front-end như biên dịch, kiểm thử nhanh hơn.
+- Hiệu suất cao: Node.js giúp xử lý nhiều tác vụ Front-end như biên dịch, kiểm thử nhanh hơn.
 
-Một hệ sinh thái đồng nhất: Dùng JavaScript cho cả Front-end và Back-end giúp dễ dàng đồng bộ hóa dữ liệu.
+- Một hệ sinh thái đồng nhất: Dùng JavaScript cho cả Front-end và Back-end giúp dễ dàng đồng bộ hóa dữ liệu.
 
-Hỗ trợ DevOps: Dễ dàng tích hợp CI/CD, kiểm thử tự động và triển khai nhanh.
+- Hỗ trợ DevOps: Dễ dàng tích hợp CI/CD, kiểm thử tự động và triển khai nhanh.
 
 5. Kết luận
 
