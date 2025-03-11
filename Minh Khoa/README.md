@@ -6,15 +6,15 @@ Front-end là phần giao diện người dùng của một ứng dụng web ho�
 
 2. Tại sao sử dụng Node.js cho Front-end?
 
-Mặc dù Node.js chủ yếu được sử dụng cho Back-end, nhưng nó cũng đóng vai trò quan trọng trong việc hỗ trợ Front-end, đặc biệt trong các công cụ và framework sau:
+- Mặc dù Node.js chủ yếu được sử dụng cho Back-end, nhưng nó cũng đóng vai trò quan trọng trong việc hỗ trợ Front-end, đặc biệt trong các công cụ và framework sau:
 
-Quản lý gói với npm/yarn: Hỗ trợ cài đặt và quản lý thư viện Front-end như React, Vue, Angular.
+- Quản lý gói với npm/yarn: Hỗ trợ cài đặt và quản lý thư viện Front-end như React, Vue, Angular.
 
-Bundlers & Compilers: Công cụ như Webpack, Babel giúp tối ưu hóa mã nguồn, biên dịch ES6+ xuống ES5.
+- Bundlers & Compilers: Công cụ như Webpack, Babel giúp tối ưu hóa mã nguồn, biên dịch ES6+ xuống ES5.
 
-Task Runners: Gulp, Grunt giúp tự động hóa các tác vụ như nén ảnh, biên dịch CSS, JS.
+- Task Runners: Gulp, Grunt giúp tự động hóa các tác vụ như nén ảnh, biên dịch CSS, JS.
 
-SSR (Server-Side Rendering): Hỗ trợ render giao diện phía server giúp cải thiện hiệu suất và SEO.
+- SSR (Server-Side Rendering): Hỗ trợ render giao diện phía server giúp cải thiện hiệu suất và SEO.
 
 3. Các công nghệ phổ biến trong Front-end bằng Node.js
 
