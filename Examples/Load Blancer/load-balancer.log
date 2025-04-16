@@ -1,0 +1,17 @@
+[2024-07-17T13:38:08.091Z] Load balancer started on port 3000
+[2024-07-17T13:38:18.119Z] Server at http://localhost:3001 is unhealthy
+[2024-07-17T13:38:18.122Z] Server at http://localhost:3002 is unhealthy
+[2024-07-17T13:38:18.124Z] Server at http://localhost:3003 is unhealthy
+[2024-07-17T13:38:18.127Z] Server at http://localhost:3004 is unhealthy
+[2024-07-17T13:38:48.157Z] Server at http://localhost:3001 has recovered
+[2024-07-17T13:38:48.163Z] Server at http://localhost:3002 has recovered
+[2024-07-17T13:38:48.166Z] Server at http://localhost:3003 has recovered
+[2024-07-17T13:38:48.177Z] Server at http://localhost:3004 has recovered
+[2024-07-17T13:39:02.790Z] Request received for /
+[2024-07-17T13:39:02.793Z] Proxying request to http://localhost:3002
+[2024-07-17T13:39:02.806Z] Request received for /
+[2024-07-17T13:39:02.808Z] Proxying request to http://localhost:3003
+[2024-07-17T13:39:03.750Z] Request received for /
+[2024-07-17T13:39:03.751Z] Proxying request to http://localhost:3004
+[2024-07-17T13:39:03.759Z] Request received for /
+[2024-07-17T13:39:03.760Z] Proxying request to http://localhost:3001
